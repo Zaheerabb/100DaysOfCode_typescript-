@@ -5,8 +5,6 @@
 ## Overview
 This challenge is designed to help you improve your TypeScript skills by coding every day for 100 days. Whether you're a beginner or an experienced developer, this challenge will push you to learn and create something new each day.
 
-## Other days are in MASTER branch
-
 ## How It Works
 1. **Fork this repository** to your GitHub account.
 2. **Clone your forked repository** to your local machine.
